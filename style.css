@@ -1,0 +1,29 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+   
+}
+.orange-color{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.half-wid{
+    width: 50%;
+    padding-right: 40%;
+   padding-left: 5%;
+}
+.half-wid img{
+ width: 300%;
+ padding-left: 40%;
+ padding-right: 30%;
+}
+.hiermebutton{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(62, 187, 123),red);
+    padding: 10px 40px;
+    border-radius: 5px;
+}
